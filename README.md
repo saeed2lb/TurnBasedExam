@@ -1,7 +1,7 @@
 # TurnBasedExam
 # Progetto Strategico a Turni 3D - Esame PAA 2025/2026
 **Sviluppato in:** Unreal Engine 5.6 (C++)
-**Studente:** [IL TUO NOME E COGNOME]
+**Studente:** Saeed Alhadi
 
 ## Requisiti Implementati (10/10)
 
